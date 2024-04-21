@@ -2,7 +2,7 @@
 
 <ul>
     <li>
-        ==>i. Créatin  du  projet Spring Boot et mentionner  les dépendances 
+        ==>. Création  du  projet Spring Boot et mentionner  les dépendances 
     </li>
 </ul>
 <img src="Captures/dependencies_1.PNG">
